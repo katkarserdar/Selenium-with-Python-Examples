@@ -1,0 +1,386 @@
+1631286859463	geckodriver	INFO	Listening on 127.0.0.1:54344
+1631286862441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofileKEwggR"
+1631286862941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofileKEwggR\\search.json.mozlz4", (void 0)))
+1631286865033	Marionette	INFO	Listening on port 54352
+1631286865139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 5020, MediaDecoderStateMachine #1] WARNING: 155101554a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 5093 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1631286877569	Marionette	INFO	Stopped listening on port 54352
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631286917341	geckodriver	INFO	Listening on 127.0.0.1:50601
+1631286920316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofileEOkoX4"
+1631286920633	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofileEOkoX4\\search.json.mozlz4", (void 0)))
+1631286922888	Marionette	INFO	Listening on port 50609
+1631286922998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SRvJn55X6RWbfV9KOXYL310U_n7bQjLBtP3JEbFBTGg.js line 1 > eval line 5591 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 7747 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 288, MediaDecoderStateMachine #1] WARNING: 1ca209109e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1631286941758	Marionette	INFO	Stopped listening on port 50609
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631288150561	geckodriver	INFO	Listening on 127.0.0.1:52974
+1631288153525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofilelhshgx"
+1631288153865	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofilelhshgx\\search.json.mozlz4", (void 0)))
+1631288156133	Marionette	INFO	Listening on port 59850
+1631288156203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 546 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9120, MediaDecoderStateMachine #1] WARNING: 1f0e36863c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1631288168692	Marionette	INFO	Stopped listening on port 59850
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3B0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631288479424	geckodriver	INFO	Listening on 127.0.0.1:51266
+1631288482401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofile2qM2pj"
+1631288482753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofile2qM2pj\\search.json.mozlz4", (void 0)))
+1631288485065	Marionette	INFO	Listening on port 60123
+1631288485559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 9828, MediaDecoderStateMachine #1] WARNING: 2207780a3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 2408 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 6234 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9828, MediaDecoderStateMachine #1] WARNING: 2207f3c5c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 9828, MediaDecoderStateMachine #1] WARNING: 2200064ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 4770 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SRvJn55X6RWbfV9KOXYL310U_n7bQjLBtP3JEbFBTGg.js line 1 > eval line 5165 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9828, MediaDecoderStateMachine #1] WARNING: 2207587cc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 519 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1631288531079	Marionette	INFO	Stopped listening on port 60123
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631289127857	geckodriver	INFO	Listening on 127.0.0.1:54159
+1631289130825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofilev7xKU9"
+1631289131159	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofilev7xKU9\\search.json.mozlz4", (void 0)))
+1631289133449	Marionette	INFO	Listening on port 60053
+1631289133480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 4888, MediaDecoderStateMachine #1] WARNING: 1ee2f5edc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 1758 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4888, MediaDecoderStateMachine #1] WARNING: 1ee2c341820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 4597 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4888, MediaDecoderStateMachine #1] WARNING: 1ee2e6fef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 5463 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4888, MediaDecoderStateMachine #1] WARNING: 1ee38af6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 3960 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 4888, MediaDecoderStateMachine #1] WARNING: 1ee3720a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 85 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 5276 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4888, MediaDecoderStateMachine #1] WARNING: 1ee366cd4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 3909 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4888, MediaDecoderStateMachine #1] WARNING: 1ee306bb040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SRvJn55X6RWbfV9KOXYL310U_n7bQjLBtP3JEbFBTGg.js line 1 > eval line 5780 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 4519 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4888, MediaDecoderStateMachine #1] WARNING: 1ee2e8514a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 1405 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4888, MediaDecoderStateMachine #1] WARNING: 1ee2e8522e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SRvJn55X6RWbfV9KOXYL310U_n7bQjLBtP3JEbFBTGg.js line 1 > eval line 109 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4888, MediaDecoderStateMachine #1] WARNING: 1ee328d2200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20210908_RC00/outstream.min.js, line 639: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 7175 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4888, MediaDecoderStateMachine #1] WARNING: 1ee3c6f8120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1631289202163	Marionette	INFO	Stopped listening on port 60053
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631289359101	geckodriver	INFO	Listening on 127.0.0.1:63609
+1631289362075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofilesfgLqi"
+1631289362397	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofilesfgLqi\\search.json.mozlz4", (void 0)))
+1631289364603	Marionette	INFO	Listening on port 50079
+1631289364759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 7744, MediaDecoderStateMachine #1] WARNING: 1476227dc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 2722 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 1506 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7744, MediaDecoderStateMachine #1] WARNING: 1475e432040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 6005 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7744, MediaDecoderStateMachine #1] WARNING: 1475f17b040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 420 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7744, MediaDecoderStateMachine #1] WARNING: 1475e323c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 2610 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7744, MediaDecoderStateMachine #1] WARNING: 1475f17cd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 933 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7744, MediaDecoderStateMachine #1] WARNING: 14760357660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 35 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7744, MediaDecoderStateMachine #1] WARNING: 1475e22c9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 7744, MediaDecoderStateMachine #1] WARNING: 1476ceaa820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 5489 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 4959 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7744, MediaDecoderStateMachine #1] WARNING: 1475e461040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 4471 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1631289414930	Marionette	INFO	Stopped listening on port 50079
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631289590989	geckodriver	INFO	Listening on 127.0.0.1:63878
+1631289593960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofileBzY0ai"
+1631289594262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofileBzY0ai\\search.json.mozlz4", (void 0)))
+1631289596493	Marionette	INFO	Listening on port 50297
+1631289596627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 7332, MediaDecoderStateMachine #1] WARNING: 1bbd07e9040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 3359 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1631289643270	Marionette	INFO	Stopped listening on port 50297
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631289855853	geckodriver	INFO	Listening on 127.0.0.1:56721
+1631289858807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofileeSKROF"
+1631289859123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofileeSKROF\\search.json.mozlz4", (void 0)))
+1631289861405	Marionette	INFO	Listening on port 56743
+1631289861488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 9768, MediaDecoderStateMachine #1] WARNING: 1c8da3909e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 587 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9768, MediaDecoderStateMachine #1] WARNING: 1c8de0f1c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 7410 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9768, MediaDecoderStateMachine #1] WARNING: 1c8ded4b120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4M_hU0z2aGWsE6Fh5g73T3aOvXi4a4lK__VWYOQ1wYI.js line 1 > eval line 2487 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1631289889774	Marionette	INFO	Stopped listening on port 56743
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_273.js, line 154: TypeError: e.g is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632753517335	geckodriver	INFO	Listening on 127.0.0.1:52976
+1632753520337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofileWjtYrr"
+1632753520877	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofileWjtYrr\\search.json.mozlz4", (void 0)))
+1632753523423	Marionette	INFO	Listening on port 52984
+1632753523522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NNk1vzza2fvPfI2QNF-UnTMKXalxTSrKsyU60SrCuuY.js line 1 > eval line 686 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NNk1vzza2fvPfI2QNF-UnTMKXalxTSrKsyU60SrCuuY.js line 1 > eval line 7257 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NNk1vzza2fvPfI2QNF-UnTMKXalxTSrKsyU60SrCuuY.js line 1 > eval line 1396 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NNk1vzza2fvPfI2QNF-UnTMKXalxTSrKsyU60SrCuuY.js line 1 > eval line 7425 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NNk1vzza2fvPfI2QNF-UnTMKXalxTSrKsyU60SrCuuY.js line 1 > eval line 6561 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NNk1vzza2fvPfI2QNF-UnTMKXalxTSrKsyU60SrCuuY.js line 1 > eval line 3019 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NNk1vzza2fvPfI2QNF-UnTMKXalxTSrKsyU60SrCuuY.js line 1 > eval line 2211 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NNk1vzza2fvPfI2QNF-UnTMKXalxTSrKsyU60SrCuuY.js line 1 > eval line 1686 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NNk1vzza2fvPfI2QNF-UnTMKXalxTSrKsyU60SrCuuY.js line 1 > eval line 2162 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NNk1vzza2fvPfI2QNF-UnTMKXalxTSrKsyU60SrCuuY.js line 1 > eval line 1999 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632753573242	Marionette	INFO	Stopped listening on port 52984
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550018,name=PHal::Msg_UnlockScreenOrientation) Channel closing: too late to send/recv, messages will be lost
+
+1632754198389	geckodriver	INFO	Listening on 127.0.0.1:53624
+1632754201372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofile0meZbt"
+1632754201683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\serda\\AppData\\Local\\Temp\\rust_mozprofile0meZbt\\search.json.mozlz4", (void 0)))
+1632754203938	Marionette	INFO	Listening on port 53632
+1632754204044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NNk1vzza2fvPfI2QNF-UnTMKXalxTSrKsyU60SrCuuY.js line 1 > eval line 6660 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NNk1vzza2fvPfI2QNF-UnTMKXalxTSrKsyU60SrCuuY.js line 1 > eval line 6666 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632754222137	Marionette	INFO	Stopped listening on port 53632
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
